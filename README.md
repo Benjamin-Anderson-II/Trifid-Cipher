@@ -8,4 +8,4 @@ Each letter is assigned a 3 number value based on a the key
 
 this value is then written vertically for each letter in to a grid, then afterward you would write it out horizontally, splitting every three letters and re-inserted back through the key, a quick example of this can be found in Key.java at the bottom
 
-(Try decrypting my username)
+p.s. (Try decrypting my username)
